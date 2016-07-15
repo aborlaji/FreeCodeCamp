@@ -22,6 +22,7 @@ Then we'll pair you with another camper, an agile project manager, and a stakeho
 This code is running live at [FreeCodeCamp.com](http://www.FreeCodeCamp.com). We also have [Gitter](https://gitter.im/FreeCodeCamp/FreeCodeCamp), a [Medium publication](http://medium.freecodecamp.com), and even a [Twitch.tv channel](http://twitch.tv/freecodecamp).
 
 [Join our community here](http://www.freecodecamp.com/signin).
+[Join our forum here](http://www.forum.freecodecamp.com).
 
 Wiki
 ------------
